@@ -1,0 +1,1899 @@
+{
+  "version": 1,
+  "items": [
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__Tableau_de_performance_du_28_janvier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 28 janvier 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-01-28__Tableau_de_performance_du_28_janvier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:36:10",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__Tableau_de_performance_du_28_janvier_2026_1__v2.xlsx",
+      "original_filename": "Tableau de performance du 28 janvier 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-01-28__Tableau_de_performance_du_28_janvier_2026_1__v2.xlsx",
+      "uploaded_at": "2026-02-13T09:36:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__Tableau_de_performance_du_29_janvier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 29 janvier 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-01-29__Tableau_de_performance_du_29_janvier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:36:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__Tableau_de_performance_du_30_janvier_2026.xlsx",
+      "original_filename": "Tableau de performance du 30 janvier 2026.xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-01-30__Tableau_de_performance_du_30_janvier_2026.xlsx",
+      "uploaded_at": "2026-02-13T09:42:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__Tableau_de_performance_du_30_janvier_2026.xlsx",
+      "original_filename": "Tableau de performance du 30 janvier 2026.xlsx",
+      "storage_path": "data/asfim/quotidien/2026-01-30__Tableau_de_performance_du_30_janvier_2026.xlsx",
+      "uploaded_at": "2026-02-13T09:43:21",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v2.xlsx",
+      "original_filename": "Tableau de performance du 02 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v2.xlsx",
+      "uploaded_at": "2026-02-13T09:43:21",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__Tableau_de_performance_du_30_janvier_2026_v2.xlsx",
+      "original_filename": "Tableau de performance du 30 janvier 2026.xlsx",
+      "storage_path": "data/asfim/quotidien/2026-01-30__Tableau_de_performance_du_30_janvier_2026_v2.xlsx",
+      "uploaded_at": "2026-02-13T09:44:40",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v3.xlsx",
+      "original_filename": "Tableau de performance du 02 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v3.xlsx",
+      "uploaded_at": "2026-02-13T09:44:40",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-03",
+      "filename": "2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 03 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:44:40",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__Tableau_de_performance_du_30_janvier_2026_v3.xlsx",
+      "original_filename": "Tableau de performance du 30 janvier 2026.xlsx",
+      "storage_path": "data/asfim/quotidien/2026-01-30__Tableau_de_performance_du_30_janvier_2026_v3.xlsx",
+      "uploaded_at": "2026-02-13T09:45:55",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v4.xlsx",
+      "original_filename": "Tableau de performance du 02 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v4.xlsx",
+      "uploaded_at": "2026-02-13T09:45:55",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-03",
+      "filename": "2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1__v2.xlsx",
+      "original_filename": "Tableau de performance du 03 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1__v2.xlsx",
+      "uploaded_at": "2026-02-13T09:45:55",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-04",
+      "filename": "2026-02-04__Tableau_de_performance_du_04_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 04 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-04__Tableau_de_performance_du_04_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:45:55",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__Tableau_de_performance_du_30_janvier_2026_v4.xlsx",
+      "original_filename": "Tableau de performance du 30 janvier 2026.xlsx",
+      "storage_path": "data/asfim/quotidien/2026-01-30__Tableau_de_performance_du_30_janvier_2026_v4.xlsx",
+      "uploaded_at": "2026-02-13T09:46:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v5.xlsx",
+      "original_filename": "Tableau de performance du 02 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1__v5.xlsx",
+      "uploaded_at": "2026-02-13T09:46:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-03",
+      "filename": "2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1__v3.xlsx",
+      "original_filename": "Tableau de performance du 03 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1__v3.xlsx",
+      "uploaded_at": "2026-02-13T09:46:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-04",
+      "filename": "2026-02-04__Tableau_de_performance_du_04_f_vrier_2026_1__v2.xlsx",
+      "original_filename": "Tableau de performance du 04 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-04__Tableau_de_performance_du_04_f_vrier_2026_1__v2.xlsx",
+      "uploaded_at": "2026-02-13T09:46:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-05",
+      "filename": "2026-02-05__Tableau_de_performance_du_05_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 05 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-05__Tableau_de_performance_du_05_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:46:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__Tableau_de_performance_du_30_janvier_2026_v2.xlsx",
+      "original_filename": "Tableau de performance du 30 janvier 2026.xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-01-30__Tableau_de_performance_du_30_janvier_2026_v2.xlsx",
+      "uploaded_at": "2026-02-13T09:48:14",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 02 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-02-02__Tableau_de_performance_du_02_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:48:14",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-02-03",
+      "filename": "2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 03 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-02-03__Tableau_de_performance_du_03_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:48:14",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-02-04",
+      "filename": "2026-02-04__Tableau_de_performance_du_04_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 04 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-02-04__Tableau_de_performance_du_04_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:48:14",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-02-05",
+      "filename": "2026-02-05__Tableau_de_performance_du_05_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 05 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-02-05__Tableau_de_performance_du_05_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T09:48:14",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-02-06",
+      "filename": "2026-02-06__Tableau_de_performance_du_06_f_vrier_2026.xlsx",
+      "original_filename": "Tableau de performance du 06 février 2026.xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-02-06__Tableau_de_performance_du_06_f_vrier_2026.xlsx",
+      "uploaded_at": "2026-02-13T09:48:14",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-09",
+      "filename": "2026-02-09__Tableau_de_performance_du_09_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 09 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-09__Tableau_de_performance_du_09_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T13:19:07",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-09",
+      "filename": "2026-02-09__Tableau_de_performance_du_09_f_vrier_2026_1__v2.xlsx",
+      "original_filename": "Tableau de performance du 09 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-09__Tableau_de_performance_du_09_f_vrier_2026_1__v2.xlsx",
+      "uploaded_at": "2026-02-13T13:19:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-10",
+      "filename": "2026-02-10__Tableau_de_performance_du_10_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 10 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-10__Tableau_de_performance_du_10_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T13:19:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-09",
+      "filename": "2026-02-09__Tableau_de_performance_du_09_f_vrier_2026_1__v3.xlsx",
+      "original_filename": "Tableau de performance du 09 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-09__Tableau_de_performance_du_09_f_vrier_2026_1__v3.xlsx",
+      "uploaded_at": "2026-02-13T13:19:37",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-10",
+      "filename": "2026-02-10__Tableau_de_performance_du_10_f_vrier_2026_1__v2.xlsx",
+      "original_filename": "Tableau de performance du 10 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-10__Tableau_de_performance_du_10_f_vrier_2026_1__v2.xlsx",
+      "uploaded_at": "2026-02-13T13:19:37",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "quotidien",
+      "date_key": "2026-02-11",
+      "filename": "2026-02-11__Tableau_de_performance_du_11_f_vrier_2026_1_.xlsx",
+      "original_filename": "Tableau de performance du 11 février 2026 (1).xlsx",
+      "storage_path": "data/asfim/quotidien/2026-02-11__Tableau_de_performance_du_11_f_vrier_2026_1_.xlsx",
+      "uploaded_at": "2026-02-13T13:19:37",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "asfim",
+      "frequency": "hebdomadaire",
+      "date_key": "2026-02-06",
+      "filename": "2026-02-06__Tableau_de_performance_du_06_f_vrier_2026_v2.xlsx",
+      "original_filename": "Tableau de performance du 06 février 2026.xlsx",
+      "storage_path": "data/asfim/hebdomadaire/2026-02-06__Tableau_de_performance_du_06_f_vrier_2026_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:08:03",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6.xlsx",
+      "uploaded_at": "2026-02-13T15:18:29",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28.xlsx",
+      "uploaded_at": "2026-02-13T15:20:19",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v2.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:20:23",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v3.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:20:42",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29.xlsx",
+      "uploaded_at": "2026-02-13T15:20:42",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v4.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:20:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v2.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:20:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30.xlsx",
+      "uploaded_at": "2026-02-13T15:20:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v5.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v5.xlsx",
+      "uploaded_at": "2026-02-13T15:22:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v3.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:22:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v2.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:22:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22.xlsx",
+      "uploaded_at": "2026-02-13T15:22:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v6.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v6.xlsx",
+      "uploaded_at": "2026-02-13T15:22:38",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v4.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:22:39",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v3.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:22:39",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v2.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:22:39",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3.xlsx",
+      "uploaded_at": "2026-02-13T15:22:39",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v7.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v7.xlsx",
+      "uploaded_at": "2026-02-13T15:23:07",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v5.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v5.xlsx",
+      "uploaded_at": "2026-02-13T15:23:07",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v4.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:23:07",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v3.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:23:07",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v2.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:23:07",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v8.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v8.xlsx",
+      "uploaded_at": "2026-02-13T15:23:29",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v6.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v6.xlsx",
+      "uploaded_at": "2026-02-13T15:23:29",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v5.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v5.xlsx",
+      "uploaded_at": "2026-02-13T15:23:29",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v4.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:23:29",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v9.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v9.xlsx",
+      "uploaded_at": "2026-02-13T15:23:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v7.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v7.xlsx",
+      "uploaded_at": "2026-02-13T15:23:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v6.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v6.xlsx",
+      "uploaded_at": "2026-02-13T15:23:35",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v5.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v5.xlsx",
+      "uploaded_at": "2026-02-13T15:23:35",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v10.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v10.xlsx",
+      "uploaded_at": "2026-02-13T15:23:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v8.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v8.xlsx",
+      "uploaded_at": "2026-02-13T15:23:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v7.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v7.xlsx",
+      "uploaded_at": "2026-02-13T15:23:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v6.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v6.xlsx",
+      "uploaded_at": "2026-02-13T15:23:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4.xlsx",
+      "uploaded_at": "2026-02-13T15:23:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v11.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v11.xlsx",
+      "uploaded_at": "2026-02-13T15:24:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v9.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v9.xlsx",
+      "uploaded_at": "2026-02-13T15:24:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v8.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v8.xlsx",
+      "uploaded_at": "2026-02-13T15:24:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v7.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v7.xlsx",
+      "uploaded_at": "2026-02-13T15:24:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v2.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:24:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52.xlsx",
+      "uploaded_at": "2026-02-13T15:24:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v12.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v12.xlsx",
+      "uploaded_at": "2026-02-13T15:24:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v10.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v10.xlsx",
+      "uploaded_at": "2026-02-13T15:24:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v9.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v9.xlsx",
+      "uploaded_at": "2026-02-13T15:24:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v8.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v8.xlsx",
+      "uploaded_at": "2026-02-13T15:24:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v3.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:24:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v2.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:24:35",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v2.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:24:35",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v13.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v13.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v11.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v11.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v10.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v10.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v9.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v9.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v4.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v3.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v3.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9.xlsx",
+      "uploaded_at": "2026-02-13T15:24:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v14.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v14.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v12.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v12.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v11.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v11.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v10.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v10.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v5.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v5.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v4.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v4.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9_v2.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-10-02",
+      "filename": "2026-10-02__BAM10.xlsx",
+      "original_filename": "BAM10.xlsx",
+      "storage_path": "data/bam/2026-10-02__BAM10.xlsx",
+      "uploaded_at": "2026-02-13T15:25:06",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v15.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v15.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v13.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v13.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v12.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v12.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v11.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v11.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v6.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v6.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v5.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v5.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v5.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v5.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9_v3.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-10-02",
+      "filename": "2026-10-02__BAM10_v2.xlsx",
+      "original_filename": "BAM10.xlsx",
+      "storage_path": "data/bam/2026-10-02__BAM10_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM11.xlsx",
+      "original_filename": "BAM11.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM11.xlsx",
+      "uploaded_at": "2026-02-13T15:25:18",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v16.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v16.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v14.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v14.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v13.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v13.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v12.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v12.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v7.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v7.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v6.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v6.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v6.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v6.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9_v4.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9_v4.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-10-02",
+      "filename": "2026-10-02__BAM10_v3.xlsx",
+      "original_filename": "BAM10.xlsx",
+      "storage_path": "data/bam/2026-10-02__BAM10_v3.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM11_v2.xlsx",
+      "original_filename": "BAM11.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM11_v2.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-12-02",
+      "filename": "2026-12-02__BAM1_2.xlsx",
+      "original_filename": "BAM1 2.xlsx",
+      "storage_path": "data/bam/2026-12-02__BAM1_2.xlsx",
+      "uploaded_at": "2026-02-13T15:25:52",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM11_v3.xlsx",
+      "original_filename": "BAM11.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM11_v3.xlsx",
+      "uploaded_at": "2026-02-13T16:31:34",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM11_v4.xlsx",
+      "original_filename": "BAM11.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM11_v4.xlsx",
+      "uploaded_at": "2026-02-13T16:34:05",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-11-02",
+      "filename": "2026-11-02__bam11.xlsx",
+      "original_filename": "bam11.xlsx",
+      "storage_path": "data/bam/2026-11-02__bam11.xlsx",
+      "uploaded_at": "2026-02-13T16:37:25",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13.xlsx",
+      "uploaded_at": "2026-02-13T22:02:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v2.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v2.xlsx",
+      "uploaded_at": "2026-02-13T22:03:23",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v3.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v3.xlsx",
+      "uploaded_at": "2026-02-13T22:04:24",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v4.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v4.xlsx",
+      "uploaded_at": "2026-02-13T22:04:55",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v5.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v5.xlsx",
+      "uploaded_at": "2026-02-13T22:04:56",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v6.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v6.xlsx",
+      "uploaded_at": "2026-02-13T22:04:57",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v7.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v7.xlsx",
+      "uploaded_at": "2026-02-13T22:04:57",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v8.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v8.xlsx",
+      "uploaded_at": "2026-02-13T22:04:57",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-13",
+      "filename": "2026-02-13__bam13_v9.xlsx",
+      "original_filename": "bam13.xlsx",
+      "storage_path": "data/bam/2026-02-13__bam13_v9.xlsx",
+      "uploaded_at": "2026-02-13T22:04:58",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v17.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v17.xlsx",
+      "uploaded_at": "2026-02-16T00:23:58",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v18.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v18.xlsx",
+      "uploaded_at": "2026-02-16T00:24:10",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v15.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v15.xlsx",
+      "uploaded_at": "2026-02-16T00:24:10",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v19.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v19.xlsx",
+      "uploaded_at": "2026-02-16T00:24:21",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v16.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v16.xlsx",
+      "uploaded_at": "2026-02-16T00:24:21",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v14.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v14.xlsx",
+      "uploaded_at": "2026-02-16T00:24:21",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v20.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v20.xlsx",
+      "uploaded_at": "2026-02-16T00:24:40",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v17.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v17.xlsx",
+      "uploaded_at": "2026-02-16T00:24:40",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v15.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v15.xlsx",
+      "uploaded_at": "2026-02-16T00:24:40",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v13.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v13.xlsx",
+      "uploaded_at": "2026-02-16T00:24:40",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v21.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v21.xlsx",
+      "uploaded_at": "2026-02-16T00:24:51",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v18.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v18.xlsx",
+      "uploaded_at": "2026-02-16T00:24:51",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v16.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v16.xlsx",
+      "uploaded_at": "2026-02-16T00:24:51",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v14.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v14.xlsx",
+      "uploaded_at": "2026-02-16T00:24:51",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v3.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v3.xlsx",
+      "uploaded_at": "2026-02-16T00:24:51",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v22.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v22.xlsx",
+      "uploaded_at": "2026-02-16T00:24:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v19.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v19.xlsx",
+      "uploaded_at": "2026-02-16T00:24:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v17.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v17.xlsx",
+      "uploaded_at": "2026-02-16T00:24:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v15.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v15.xlsx",
+      "uploaded_at": "2026-02-16T00:24:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v4.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v4.xlsx",
+      "uploaded_at": "2026-02-16T00:24:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v8.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v8.xlsx",
+      "uploaded_at": "2026-02-16T00:24:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v23.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v23.xlsx",
+      "uploaded_at": "2026-02-16T00:25:09",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v20.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v20.xlsx",
+      "uploaded_at": "2026-02-16T00:25:09",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v18.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v18.xlsx",
+      "uploaded_at": "2026-02-16T00:25:09",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v16.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v16.xlsx",
+      "uploaded_at": "2026-02-16T00:25:09",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v5.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v5.xlsx",
+      "uploaded_at": "2026-02-16T00:25:09",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v9.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v9.xlsx",
+      "uploaded_at": "2026-02-16T00:25:09",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v7.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v7.xlsx",
+      "uploaded_at": "2026-02-16T00:25:09",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v24.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v24.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v21.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v21.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v19.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v19.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v17.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v17.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v6.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v6.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v10.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v10.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v8.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v8.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v7.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v7.xlsx",
+      "uploaded_at": "2026-02-16T00:25:17",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v25.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v25.xlsx",
+      "uploaded_at": "2026-02-16T00:25:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v22.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v22.xlsx",
+      "uploaded_at": "2026-02-16T00:25:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v20.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v20.xlsx",
+      "uploaded_at": "2026-02-16T00:25:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v18.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v18.xlsx",
+      "uploaded_at": "2026-02-16T00:25:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v7.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v7.xlsx",
+      "uploaded_at": "2026-02-16T00:25:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v11.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v11.xlsx",
+      "uploaded_at": "2026-02-16T00:25:26",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v9.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v9.xlsx",
+      "uploaded_at": "2026-02-16T00:25:27",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v8.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v8.xlsx",
+      "uploaded_at": "2026-02-16T00:25:27",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9_v5.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9_v5.xlsx",
+      "uploaded_at": "2026-02-16T00:25:27",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v26.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v26.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v23.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v23.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v21.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v21.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v19.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v19.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v8.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v8.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v12.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v12.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v10.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v10.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v9.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v9.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9_v6.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9_v6.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-10-02",
+      "filename": "2026-10-02__BAM10_v4.xlsx",
+      "original_filename": "BAM10.xlsx",
+      "storage_path": "data/bam/2026-10-02__BAM10_v4.xlsx",
+      "uploaded_at": "2026-02-16T00:25:36",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v27.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v27.xlsx",
+      "uploaded_at": "2026-02-16T00:25:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v24.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v24.xlsx",
+      "uploaded_at": "2026-02-16T00:25:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v22.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v22.xlsx",
+      "uploaded_at": "2026-02-16T00:25:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v20.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v20.xlsx",
+      "uploaded_at": "2026-02-16T00:25:44",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v9.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v9.xlsx",
+      "uploaded_at": "2026-02-16T00:25:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v13.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v13.xlsx",
+      "uploaded_at": "2026-02-16T00:25:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v11.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v11.xlsx",
+      "uploaded_at": "2026-02-16T00:25:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v10.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v10.xlsx",
+      "uploaded_at": "2026-02-16T00:25:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9_v7.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9_v7.xlsx",
+      "uploaded_at": "2026-02-16T00:25:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-10-02",
+      "filename": "2026-10-02__BAM10_v5.xlsx",
+      "original_filename": "BAM10.xlsx",
+      "storage_path": "data/bam/2026-10-02__BAM10_v5.xlsx",
+      "uploaded_at": "2026-02-16T00:25:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM11_v5.xlsx",
+      "original_filename": "BAM11.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM11_v5.xlsx",
+      "uploaded_at": "2026-02-16T00:25:45",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-28",
+      "filename": "2026-01-28__BAM28_v28.xlsx",
+      "original_filename": "BAM28.xlsx",
+      "storage_path": "data/bam/2026-01-28__BAM28_v28.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-29",
+      "filename": "2026-01-29__BAM29_v25.xlsx",
+      "original_filename": "BAM29.xlsx",
+      "storage_path": "data/bam/2026-01-29__BAM29_v25.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-01-30",
+      "filename": "2026-01-30__BAM30_v23.xlsx",
+      "original_filename": "BAM30.xlsx",
+      "storage_path": "data/bam/2026-01-30__BAM30_v23.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-02-02",
+      "filename": "2026-02-02__BAM22_v21.xlsx",
+      "original_filename": "BAM22.xlsx",
+      "storage_path": "data/bam/2026-02-02__BAM22_v21.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-03-02",
+      "filename": "2026-03-02__BAM3_v10.xlsx",
+      "original_filename": "BAM3.xlsx",
+      "storage_path": "data/bam/2026-03-02__BAM3_v10.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-04-02",
+      "filename": "2026-04-02__BAM4_v14.xlsx",
+      "original_filename": "BAM4.xlsx",
+      "storage_path": "data/bam/2026-04-02__BAM4_v14.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM52_v12.xlsx",
+      "original_filename": "BAM52.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM52_v12.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-06-02",
+      "filename": "2026-06-02__BAM_6_v11.xlsx",
+      "original_filename": "BAM 6.xlsx",
+      "storage_path": "data/bam/2026-06-02__BAM_6_v11.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-09-02",
+      "filename": "2026-09-02__BAM9_v8.xlsx",
+      "original_filename": "BAM9.xlsx",
+      "storage_path": "data/bam/2026-09-02__BAM9_v8.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-10-02",
+      "filename": "2026-10-02__BAM10_v6.xlsx",
+      "original_filename": "BAM10.xlsx",
+      "storage_path": "data/bam/2026-10-02__BAM10_v6.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-05-02",
+      "filename": "2026-05-02__BAM11_v6.xlsx",
+      "original_filename": "BAM11.xlsx",
+      "storage_path": "data/bam/2026-05-02__BAM11_v6.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    },
+    {
+      "kind": "bam",
+      "date_key": "2026-12-02",
+      "filename": "2026-12-02__BAM1_2_v2.xlsx",
+      "original_filename": "BAM1 2.xlsx",
+      "storage_path": "data/bam/2026-12-02__BAM1_2_v2.xlsx",
+      "uploaded_at": "2026-02-16T00:25:59",
+      "date_source": "contenu"
+    }
+  ]
+}
